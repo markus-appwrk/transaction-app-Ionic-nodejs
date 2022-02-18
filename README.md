@@ -14,3 +14,6 @@ A step by step Ionic 4 Cordova app, In this app, we will learn how to create a t
 * Run `npm install` to node/express packages
 * Run `nodemon` to start node server
 * Run `mongod` to start mongoDB database
+
+
+![alt text](https://github.com/markus-appwrk/transaction-app-Ionic-nodejs/blob/main/Screenshot_3.png?raw=true)
